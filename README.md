@@ -32,17 +32,17 @@ This Open Source Movies project, help beginners to learn how to write clean code
 - How to write clean code by **VIPER**
 - How follow **Composition over inheritance** to make your code reusable.
 - Decode & encode JSON with **Codable**
-- Write **protocol oriented network** layer like Moya
+- Write **protocol oriented network** layer like Moya [Read](https://github.com/deda9/Movizy/tree/master/Movizy/Network)
 - Write network requests with [Alamofire](https://github.com/Alamofire/Alamofire)
-- Write simple DI with **Service Locater**
-- Wrapper to use **native Autolayout**
-- Simple wrapper to make **chain animations**
-- Create **ToastView** to show success & error messages
-- Wrapper to create **Localizations**
-- Write Simple **image downloading** with simple cashing with **NSCache**
-- Write **Fade in & out** transition
-- Write **Zoom** transition
-- Create UITableView **GenericDataSource**
-- Use [SwiftLint](https://github.com/realm/SwiftLint)
+- Write simple DI with **Service Locater** [Read](https://github.com/deda9/Movizy/tree/master/Movizy/DI)
+- Wrapper to use **native Autolayout** [Read](https://github.com/deda9/Movizy/tree/master/Movizy/Helpers/Autolayout)
+- Simple wrapper to make **chain animations** [Read](https://github.com/deda9/Movizy/tree/master/Movizy/Helpers/AnimateThen)
+- Create **ToastView** to show success & error messages [Read](https://github.com/deda9/Movizy/tree/master/Movizy/Helpers/ToastView)
+- Wrapper to create **Localizations** [Read](https://github.com/deda9/Movizy/tree/master/Movizy/Helpers/Localize)
+- Write Simple **image downloading** with simple cashing with **NSCache** [Read](https://github.com/deda9/Movizy/tree/master/Movizy/Helpers/ImageDownload)
+- Write **Fade in & out** transition [Read](https://github.com/deda9/Movizy/tree/master/Movizy/Helpers/Transitions/Fade)
+- Write **Zoom** transition [Read](https://github.com/deda9/Movizy/tree/master/Movizy/Helpers/Transitions/Zoom)
+- Create UITableView **GenericDataSource** [Read](https://github.com/deda9/Movizy/tree/master/Movizy/Helpers/GenericDataSource)
+- Use [SwiftLint](https://github.com/realm/SwiftLint) [Read](https://github.com/deda9/Movizy/blob/master/.swiftlint.yml)
 - Learn how to write unit testing with [Quick](https://github.com/Quick/Quick) & [Nimble](https://github.com/Quick/Nimble)
 - How to use SwiftLint with Cocoapods
