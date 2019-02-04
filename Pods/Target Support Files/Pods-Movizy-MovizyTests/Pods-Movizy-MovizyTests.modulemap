@@ -1,0 +1,6 @@
+framework module Pods_Movizy_MovizyTests {
+  umbrella header "Pods-Movizy-MovizyTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
