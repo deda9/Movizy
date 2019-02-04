@@ -1,5 +1,11 @@
 # Movizy
 
+<p align="center">
+    <img src="https://github.com/deda9/Movizy/blob/master/GIF_Image.gif" height="568" width="280">
+</p>
+
+
+
 Hello!
 This Open Source Movies project, help beginners to learn how to write clean code with 
 * **VIPER Architecture**
